@@ -1,11 +1,11 @@
 ![image](https://github.com/IsaMocellin/Projeto-Power-BI-Analyst/assets/131546311/5f179b0e-0e85-4b9a-8760-01c3f908f87f)
 
 
-📊 # Análise de Vendas 📈
+# Análise de Vendas 📊
 
 A Análise de Vendas é um projeto abrangente do Power BI projetado para fornecer insights profundos sobre o desempenho de vendas de nossa empresa fictícia, "FictiCorp". Ao aproveitar visualizações interativas, os usuários podem analisar tendências de lucro e vendas em diferentes dimensões, como trimestres, meses, segmentos, anos e produtos.
 
-🔍 ## Como Utilizar 🔮
+## Como Utilizar 🔮
 
 Baixe o arquivo Analise_Vendas.pbix.
 Abra o Power BI Desktop.
@@ -22,13 +22,13 @@ Comparativos Interativos: Compare dinamicamente o desempenho de vendas e lucro e
 
 Navegação Simplificada: Botões de navegação facilitam a movimentação entre as diferentes páginas do painel, garantindo uma experiência amigável ao usuário.
 
-📂 ## Conteúdo do Repositório 📂
+## Conteúdo do Repositório 📂
 
 Desafio_de_Projeto.pbix: O arquivo principal do Power BI contendo o painel interativo.
 
 Fonte_de_Dados.xlsx: O arquivo de origem dos dados usado no painel, contendo informações de vendas, lucro, trimestre, mês, segmento, ano e produto.
 
-🚀 ## Tecnologias Utilizadas 🚀
+## Tecnologias Utilizadas 🚀
 
 Power BI: Ferramenta interativa de visualização de dados.
 
@@ -36,7 +36,7 @@ Microsoft Excel: Gerenciamento e manipulação de dados.
 
 DAX (Data Analysis Expressions): Usado para criar colunas calculadas e medidas no Power BI.
 
-🤝 ## Contribuições 🌟
+## Contribuições 🌟
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar solicitações de melhoria, novos recursos ou correções de bugs. Para contribuir, siga estas etapas:
 
